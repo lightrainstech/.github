@@ -1,5 +1,10 @@
 ## Blockchain Consulting & Development
-### We help you build the right products for your usersWe deliver 2x faster than our competitorsLaunched 30% more NFT projects than previous yearNFT Marketplace development company in India
+### We help you build the right products for your users. 
+
+We build, deploy and manage innovative blockchain solutions at scale
+
+> We provide solutions for companies to approach commerce, trading, transparency, security, identification, supply chain and auditing systems powered by blockchain and smart contracts.
+
 
 <!--
 
