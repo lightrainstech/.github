@@ -5,8 +5,6 @@ We build, deploy and manage innovative blockchain solutions at scale
 
 > We provide solutions for companies to approach commerce, trading, transparency, security, identification, supply chain and auditing systems powered by blockchain and smart contracts.
 
-# +1 415 800 4864
-
 
 <!--
 
