@@ -1,9 +1,9 @@
-## Blockchain Consulting & Development
+## Future-Ready Software Solutions: Blockchain, AI, and Beyond
 ### We help you build the right products for your users. 
 
 We build, deploy and manage innovative blockchain solutions at scale
 
-> We provide solutions for companies to approach commerce, trading, transparency, security, identification, supply chain and auditing systems powered by blockchain and smart contracts.
+> Lightrains is one of the world’s largest IT services and solutions providers that has helped the world’s best companies redefine their digital possibilities for more than a decade. With our team of tech experts, we help our clients position themselves as market leaders in their respective industries.
 
 
 <!--
